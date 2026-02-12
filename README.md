@@ -58,8 +58,9 @@ Cada pasta contém o código-fonte e, quando necessário, explicações sobre o 
 | Dia | Projeto | Status |
 |-----|---------|--------|
 | 01  | LoginApp | Concluído |
-| 02  | Calculadora Simples | Concluído |
-| 03  | Em desenvolvimento | Em andamento |
+| 01  | Calculadora Simples | Concluído |
+| 02  | Em desenvolvimento | Em andamento |
+| 02  | Em desenvolvimento | Em andamento |
 
 *A tabela será atualizada diariamente conforme eu vou avançando do desafio.*
 
