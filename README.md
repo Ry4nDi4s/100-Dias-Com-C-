@@ -61,6 +61,8 @@ Cada pasta contém o código-fonte e, quando necessário, explicações sobre o 
 | 01  | Calculadora Simples | Concluído |
 | 02  | Conversão de Kilos no Dia a Dia | Concluído |
 | 02  | Ordem Numerica | Concluído |
+| 03  | Converter Celsius para Fahrenheit | Concluído |
+| 03  | Impar ou Par | Concluído |
 
 *A tabela será atualizada diariamente conforme eu vou avançando do desafio.*
 
