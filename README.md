@@ -63,6 +63,8 @@ Cada pasta contém o código-fonte e, quando necessário, explicações sobre o 
 | 02  | Ordem Numerica | Concluído |
 | 03  | Converter Celsius para Fahrenheit | Concluído |
 | 03  | Impar ou Par | Concluído |
+| 04  |  Exibir data e hora atual | Concluído |
+| 04  | Calcular média | Concluído |
 
 *A tabela será atualizada diariamente conforme eu vou avançando do desafio.*
 
